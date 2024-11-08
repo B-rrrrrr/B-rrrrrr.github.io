@@ -20,7 +20,7 @@ AddLanguage('FI','finnish',{
 		"language": "fi",
 		"plural-forms": "nplurals=2;plural=(n!=1);"
 	},
-	"cookie": "kek",
+	"cookie": "keksi",
 	"sugar lump": "/",
 	"heavenly chip": "/",
 	"wrinkler": "/",
@@ -98,7 +98,7 @@ AddLanguage('FI','finnish',{
 	"%1 worth": "/",
 	"%1 of CpS": "/",
 	"%1% of bank": "%1% pankista",
-	"per second:": "sekuntissa:",
+	"per second:": "sekunt:",
 	"just now": "/",
 	"a long while": "/",
 	"forever": "/",
