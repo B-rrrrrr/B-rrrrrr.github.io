@@ -4,7 +4,7 @@ AddLanguage('FR','french',{
 		"plural-forms": "nplurals=2;plural=(n!=1);"
 	},
 	"cookie": "keksi",
-	"sugar lump": "/",
+	"sugar lump": "asidsandn",
 	"heavenly chip": "/",
 	"wrinkler": "/",
 	"building": "rakennus",
