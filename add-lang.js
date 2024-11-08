@@ -20,7 +20,7 @@ AddLanguage('FI','finnish',{
 		"language": "fi",
 		"plural-forms": "nplurals=2;plural=(n!=1);"
 	},
-	"cookie": "keksi",
+	"cookie": "kek",
 	"sugar lump": "/",
 	"heavenly chip": "/",
 	"wrinkler": "/",
